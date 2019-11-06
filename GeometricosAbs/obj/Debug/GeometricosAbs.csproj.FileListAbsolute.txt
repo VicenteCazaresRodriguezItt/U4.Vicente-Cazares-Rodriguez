@@ -1,0 +1,6 @@
+C:\Users\vicen\source\repos\GeometricosAbs\obj\Debug\GeometricosAbs.csprojAssemblyReference.cache
+C:\Users\vicen\source\repos\GeometricosAbs\bin\Debug\GeometricosAbs.exe.config
+C:\Users\vicen\source\repos\GeometricosAbs\bin\Debug\GeometricosAbs.exe
+C:\Users\vicen\source\repos\GeometricosAbs\bin\Debug\GeometricosAbs.pdb
+C:\Users\vicen\source\repos\GeometricosAbs\obj\Debug\GeometricosAbs.exe
+C:\Users\vicen\source\repos\GeometricosAbs\obj\Debug\GeometricosAbs.pdb
