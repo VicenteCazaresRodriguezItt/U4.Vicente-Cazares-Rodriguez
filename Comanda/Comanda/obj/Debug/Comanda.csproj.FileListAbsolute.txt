@@ -1,0 +1,9 @@
+C:\Users\vicen\OneDrive\Desktop\Comanda\Comanda\obj\Debug\Comanda.csprojAssemblyReference.cache
+C:\Users\vicen\OneDrive\Desktop\Comanda\Comanda\obj\Debug\Comanda.Properties.Resources.resources
+C:\Users\vicen\OneDrive\Desktop\Comanda\Comanda\obj\Debug\Comanda.csproj.GenerateResource.cache
+C:\Users\vicen\OneDrive\Desktop\Comanda\Comanda\bin\Debug\Comanda.exe.config
+C:\Users\vicen\OneDrive\Desktop\Comanda\Comanda\bin\Debug\Comanda.exe
+C:\Users\vicen\OneDrive\Desktop\Comanda\Comanda\bin\Debug\Comanda.pdb
+C:\Users\vicen\OneDrive\Desktop\Comanda\Comanda\obj\Debug\Comanda.exe
+C:\Users\vicen\OneDrive\Desktop\Comanda\Comanda\obj\Debug\Comanda.pdb
+C:\Users\vicen\OneDrive\Desktop\Comanda\Comanda\obj\Debug\Comanda.FrmRestaurante.resources
