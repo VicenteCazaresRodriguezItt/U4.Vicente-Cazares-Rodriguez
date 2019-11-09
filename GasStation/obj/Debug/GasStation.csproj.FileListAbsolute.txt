@@ -1,0 +1,6 @@
+C:\Users\vicen\source\repos\GasStation\bin\Debug\GasStation.exe.config
+C:\Users\vicen\source\repos\GasStation\bin\Debug\GasStation.exe
+C:\Users\vicen\source\repos\GasStation\bin\Debug\GasStation.pdb
+C:\Users\vicen\source\repos\GasStation\obj\Debug\GasStation.csprojAssemblyReference.cache
+C:\Users\vicen\source\repos\GasStation\obj\Debug\GasStation.exe
+C:\Users\vicen\source\repos\GasStation\obj\Debug\GasStation.pdb
